@@ -19,7 +19,5 @@ public class ApplicationClass extends Application {
                 .build()
         );
 
-
-        //hello world new chane in harshis work testing new work mnm
-    }
+        }
 }
